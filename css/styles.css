@@ -454,13 +454,15 @@ img {
 }
 .footer-list {
 }
-.footer-item-link:hover {
-  background-color: #31d0aa;
-}
 
 .footer-item-link:focus {
   background-color: #31d0aa;
 }
+
+.footer-item-link:hover {
+  background-color: #31d0aa;
+}
+
 .footer-item-link {
   width: 40px;
   height: 40px;
